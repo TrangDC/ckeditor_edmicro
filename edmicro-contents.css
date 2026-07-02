@@ -1,0 +1,25 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.cke_editable {
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.cke_editable p,
+.cke_editable li,
+.cke_editable td,
+.cke_editable th,
+.cke_editable blockquote {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.cke_editable .math-tex,
+.cke_editable .katex,
+.cke_editable .katex-display {
+  font-size: 1.05em;
+}
